@@ -67,6 +67,20 @@ body {
   letter-spacing: 0.02em;
   color: #757575;
 }
+.portfolio-home:hover,
+.portfolio-home:focus {
+  color: #2196f3;
+}
+.studio-portfolio:hover,
+.studio-portfolio:focus {
+  color: #2196f3;
+}
+.contacts-home,
+.contacts-portfolio:hover,
+.contacts-home,
+.contacts-portfolio:focus {
+  color: #2196f3;
+}
 /*-----------------------MAIN HOME________________*/
 .section-title-home {
   background: #2f303a;
